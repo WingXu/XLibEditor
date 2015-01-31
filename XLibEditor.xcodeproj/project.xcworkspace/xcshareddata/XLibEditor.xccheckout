@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>56D239E9-4150-4D6A-AD0C-1D82DFF6DA0F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>XLibEditor</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>46674BB3661602F89EC1872AB15ACB93121E9C90</key>
+		<string>https://github.com/WingXu/XLibEditor.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>XLibEditor.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>46674BB3661602F89EC1872AB15ACB93121E9C90</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/WingXu/XLibEditor.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>46674BB3661602F89EC1872AB15ACB93121E9C90</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>46674BB3661602F89EC1872AB15ACB93121E9C90</string>
+			<key>IDESourceControlWCCName</key>
+			<string>XLibEditor</string>
+		</dict>
+	</array>
+</dict>
+</plist>
